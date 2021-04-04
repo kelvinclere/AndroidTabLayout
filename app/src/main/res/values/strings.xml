@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidTabLayout</string>
+    <string name="tab_3">Tab 3</string>
+    <string name="tab_2">Tab 2</string>
+    <string name="tab_1">Tab 1</string>
+    <string name="food">Food</string>
+    <string name="the_easiest_way_to_order_food_from_your_favourite_restaurant">The easiest way to order food from your favourite restaurant</string>
+    <string name="book_movie_tickets_for_your_family_and_friends">Book movie tickets for your family and friends</string>
+    <string name="movie_tickets">Movie Tickets</string>
+    <string name="book_ticket_of_any_transportation_and_travel_the_world">Book ticket of any transportation and travel the world</string>
+    <string name="world_travel">World Travel</string>
+    <string name="eggciting_chiks">EGGCITING CHIKS</string>
+    <string name="eggciting">EGGCITING</string>
+    <string name="chicks">CHICKS</string>
+    <string name="records">RECORDS</string>
+    <string name="the_easiest_way_to_put_down_your_daily_records">The easiest way to put down your daily records</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+</resources>
